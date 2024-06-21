@@ -1,4 +1,3 @@
-import 'package:equatable/equatable.dart';
 import '../../domain/entities/current_city_entity.dart';
 
 /// coord : {"lon":51.4215,"lat":35.6944}
